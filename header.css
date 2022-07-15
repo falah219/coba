@@ -1,0 +1,35 @@
+* {
+    margin:0; 
+    padding:0;
+}
+
+header {
+   margin:auto;
+   width: 100%;
+   height: 140px;
+   background-color: aliceblue;
+} 
+
+header h5 {
+   padding: 0 15;
+   font-size: 50px;
+   font-family: cursive;
+   color: crimson;
+}
+
+
+
+header h2{
+   float:centre;
+   padding: 0 15px;
+   font-size: 25px;
+   font-family: cursive;
+   color: crimson;
+}
+
+img{
+    padding-left: 600;
+    padding-bottom: 0;
+    display: block;
+}
+
